@@ -5,9 +5,6 @@
 # Finally, the first object can implement a method to call the Builder itself, thus avoiding creating the build ourselves
 
 
-from re import M
-
-
 class HtmlElement:
 
     indent_size = 4
